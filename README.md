@@ -1,7 +1,7 @@
 #  About Me:
 Hi! Thank you for checking out my profile .
 <br><br> Vishal Lavare<br>
-         Cloud DevOps Engineer.<br>
+         AWS DevOps Engineer.<br>
          vslavare@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-lavare-117715285)
