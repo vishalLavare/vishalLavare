@@ -1,4 +1,4 @@
-#  💥 About Me:
+# ✨ About Me:
 Hi! Thank you for checking out my profile .
 <br><br> Vishal Lavare<br>
          AWS DevOps Engineer.<br>
