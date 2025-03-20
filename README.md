@@ -25,7 +25,7 @@ Hi! Thank you for checking out my profile .
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishalLavare&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=vishalLavare&color=blue)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
