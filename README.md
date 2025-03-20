@@ -20,13 +20,6 @@ Hi! Thank you for checking out my profile .
 ![Virtual Network](https://img.shields.io/badge/Virtual%20Network-%23FF9900.svg?style=plastic&logo=azure)
 ![Storage Account](https://img.shields.io/badge/Storage%20Account-%235835CC.svg?style=plastic&logo=microsoftazure)
 
-### **Microsoft Azure**  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="100">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Azure_Storage_Logo.svg" width="100">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Azure_Virtual_Machine_Logo.svg" width="100">  
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishalLavare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishalLavare&theme=dark&hide_border=false)<br/>
