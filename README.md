@@ -17,6 +17,12 @@ Hi! Thank you for checking out my profile .
 ### **Microsoft Azure**
 ![Virtual_Machines](https://img.shields.io/badge/Virtual_Machine-%23FF9900.svg?style=plastic&logo=virtual_machine&logoColor=white) ![Static_web_app](https://img.shields.io/badge/Static_web_app-%235835CC.svg?style=plastic&logo=Static_web_app&logoColor=white) ![Virtual_Network](https://img.shields.io/badge/Virtual_Network-%23FF9900.svg?style=plastic&logo=virtual_Network&logoColor=white) ![Storage_account](https://img.shields.io/badge/Storage_account-%235835CC.svg?style=plastic&logo=Storage_account&logoColor=white)
 
+![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-%23FF9900.svg?style=plastic&logo=azure)
+![Static Web App](https://img.shields.io/badge/Static%20Web%20App-%235835CC.svg?style=plastic&logo=microsoftazure)
+![Virtual Network](https://img.shields.io/badge/Virtual%20Network-%23FF9900.svg?style=plastic&logo=azure)
+![Storage Account](https://img.shields.io/badge/Storage%20Account-%235835CC.svg?style=plastic&logo=microsoftazure)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishalLavare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishalLavare&theme=dark&hide_border=false)<br/>
